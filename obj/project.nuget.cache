@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qjv7KeKplGKG8LBxsLuC8J6XQbm5JOwXkUj72N13HILG0wN7tUmsJrh/uYwzkjpesd5H03erMYuOOb1GXst+gQ==",
+  "success": true,
+  "projectFilePath": "/home/vapr/-0.5points/-0.5points.csproj",
+  "expectedPackageFiles": [
+    "/home/vapr/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
